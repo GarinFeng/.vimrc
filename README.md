@@ -12,3 +12,7 @@ must know:
 3, note that i will use '-----language-----' to set it to specical language
 
 4,now it support php
+
+5,you should use $ git clone https://github.com/GarinFeng/.vimrc.git ~/   command to add my file to your location
+
+6,when you enter vim xxx,please use :PluginInstall to install the plugin
