@@ -12,5 +12,3 @@ must know:
 3, note that i will use '-----language-----' to set it to specical language
 
 4,now it support php
-
-5, you can use
