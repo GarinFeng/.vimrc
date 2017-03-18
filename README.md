@@ -15,4 +15,4 @@ must know:
 
 5,you should use $ git clone https://github.com/GarinFeng/.vimrc.git ~/   command to add my file to your location
 
-6,now it support php
+6,now it support php,
